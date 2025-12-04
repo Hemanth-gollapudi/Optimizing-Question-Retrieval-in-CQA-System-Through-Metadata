@@ -12,6 +12,7 @@ It implements:
 - `src/` : source code
 - `data/` : dataset (`cqa.csv`)
 - `artifacts/` : saved models (category model + translation dictionary)
+- `Create` : category_model and translation_dict folders in artifacts
 
 ## Setup
 ```bash
