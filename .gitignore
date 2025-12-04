@@ -1,5 +1,11 @@
-artifacts/category_model/
-artifacts/translation_dict
+# ignore everything inside
+artifacts/category_model/*
+artifacts/translation_dict/*
+
+# but keep the folders + a placeholder file
+!artifacts/category_model/.gitkeep
+!artifacts/translation_dict/.gitkeep
+
 
 about.txt
 sample.txt
