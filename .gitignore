@@ -3,3 +3,4 @@ artifacts/translation_dict
 
 about.txt
 sample.txt
+src\__pycache__
