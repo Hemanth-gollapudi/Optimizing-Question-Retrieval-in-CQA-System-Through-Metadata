@@ -27,11 +27,11 @@ python src/train.py --data_csv data/cqa.csv
 Step 4: Run retrieval demo
 python src/demo.py --data_csv data/cqa.csv --query_subject "Give your subject" --query_body "your query"
 
-Optional: enable RAG-style query expansion
+Optional: Enable RAG-style query expansion
 python src/demo.py --data_csv data/cqa.csv --use_expansion
 
 Step 5: Evaluate
 python src/evaluate.py --data_csv data/cqa.csv --k 10 --num_queries 200
 
-Optional: enable RAG-style query expansion
+Optional: Enable RAG-style query expansion
 python src/evaluate.py --data_csv data/cqa.csv --k 10 --num_queries 200 --use_expansion
