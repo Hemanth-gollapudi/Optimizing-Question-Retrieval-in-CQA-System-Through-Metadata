@@ -3,4 +3,6 @@ artifacts/translation_dict
 
 about.txt
 sample.txt
-src\__pycache__
+
+#Ignore compiled python files
+E:\IOMP\src\__pycache__
