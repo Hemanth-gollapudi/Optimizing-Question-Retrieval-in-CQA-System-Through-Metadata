@@ -14,7 +14,7 @@ It implements:
 - `artifacts/` : saved models (category model + translation dictionary)
 
 ## Setup
-
+```bash
 Step 1: Install requirements
 pip install -r requirements.txt
 
@@ -25,7 +25,7 @@ Step 3: Train category classifier + dictionaries
 python src/train.py --data_csv data/cqa.csv
 
 Step 4: Run retrieval demo
-python src/demo.py --data_csv data/cqa.csv --query_subject "give your subject" --query_body "your question"
+python src/demo.py --data_csv data/cqa.csv --query_subject "Give your subject" --query_body "your query"
 
 Optional: enable RAG-style query expansion
 python src/demo.py --data_csv data/cqa.csv --use_expansion
