@@ -29,4 +29,4 @@ Step 4: Run retrieval demo
 python src/demo.py --data_csv data/cqa.csv --query_subject "Give your subject" --query_body "your query" --gen_model Qwen/Qwen2.5-Coder-0.5B-Instruct
 
 Step 5: Evaluate
-python src/evaluate.py --data_csv data/cqa.csv --k 10 --num_queries 200
+python src/evaluate.py --data_csv data/cqa.csv --k 10 --num_queries 200 --exclude_self --relevance answer
