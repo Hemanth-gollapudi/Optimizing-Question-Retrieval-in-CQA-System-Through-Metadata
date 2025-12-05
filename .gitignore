@@ -1,8 +1,0 @@
-artifacts/category_model/
-artifacts/translation_dict
-
-about.txt
-sample.txt
-
-#Ignore compiled python files
-E:\IOMP\src\__pycache__
