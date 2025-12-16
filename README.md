@@ -6,7 +6,7 @@ It implements:
 1. Transformer-based category prediction (BERT/DistilBERT).
 2. Category-specific translation dictionary built from metadata (subject + answer).
 3. Query expansion using a lightweight RAG-style generator (optional).
-4. Retrieval and ranking using BM25 + metadata/category boosts.
+4. Retrieval using semantic vector retrieval with SentenceTransformer embeddings + cosine similarity.
 
 ## Folder Structure
 - `src/` : source code
@@ -26,7 +26,7 @@ Step 3: Train category classifier + dictionaries
 python src/train.py --data_csv data/cqa.csv
 
 Step 4: Run retrieval demo
-python src/demo.py --data_csv data/cqa.csv --query_subject "Give your subject" --query_body "your query" --gen_model Qwen/Qwen2.5-Coder-0.5B-Instruct
+python src/demo.py --data_csv data/cqa.csv --query_subject "Give subject" --query_body "Your Question"
 
 Step 5: Evaluate
 python src/evaluate.py --data_csv data/cqa.csv --k 10 --num_queries 200 --exclude_self --relevance answer
