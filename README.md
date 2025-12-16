@@ -8,6 +8,11 @@ It implements:
 3. Query expansion using a lightweight RAG-style generator (optional).
 4. Retrieval using semantic vector retrieval with SentenceTransformer embeddings + cosine similarity.
 
+## Models Used
+
+1. Code realted queries : deepseek-coder:6.7b
+2. Genaeral queries : llama3:8b 
+
 ## Folder Structure
 - `src/` : source code
 - `data/` : dataset (`cqa.csv`)
