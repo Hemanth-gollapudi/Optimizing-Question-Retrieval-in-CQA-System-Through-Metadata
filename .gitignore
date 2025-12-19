@@ -4,3 +4,6 @@ artifacts/translation_dict
 #Ignore compiled python files
 E:\IOMP\src\__pycache__
 E:\IOMP\src\__pycache__\demo.cpython-311.pyc
+
+venv
+*.pyc

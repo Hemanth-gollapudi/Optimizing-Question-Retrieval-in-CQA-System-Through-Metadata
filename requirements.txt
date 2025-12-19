@@ -5,3 +5,7 @@ pandas
 numpy
 tqdm
 rank_bm25
+fastapi
+uvicorn[standard]
+requests
+sentence-transformers

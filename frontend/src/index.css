@@ -1,0 +1,41 @@
+/* CSS Variables */
+:root {
+    --bg-dark: #1e1e1e;
+    --bg-medium: #252526;
+    --bg-sidebar: #2f2f2f;
+    --text-light: #f0f0f0;
+    --text-faint: #999;
+    --nav-bg: #333333;
+    --user-bubble: #1E88E5;
+    --bot-bubble: #3a3a3a;
+    --input-bg: #444444;
+    --send-btn: #28a745;
+    --toggle-size: 30px;
+    --sidebar-width: 300px;
+    --navbar-height: 52px;
+    --max-input-width: 800px;
+    --icon-btn-size: 45px;
+    --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    --secondary-gradient: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+    --accent-gradient: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);
+    color: var(--text-light);
+    height: 100vh;
+    overflow: hidden;
+}
+
+#root {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,27 @@
+#message-display {
+    flex: 1;
+    min-height: 0;
+    /* Critical for scrolling in flex containers */
+    padding: 20px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: var(--max-input-width);
+    box-sizing: border-box;
+}
+
+#message-display::-webkit-scrollbar {
+    width: 8px;
+}
+
+#message-display::-webkit-scrollbar-track {
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 10px;
+}
+
+#message-display::-webkit-scrollbar-thumb {
+    background: linear-gradient(180deg, #667eea 0%, #764ba2 100%);
+    border-radius: 10px;
+}

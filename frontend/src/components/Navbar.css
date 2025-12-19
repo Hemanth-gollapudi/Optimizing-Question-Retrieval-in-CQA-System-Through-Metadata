@@ -1,0 +1,98 @@
+#navbar {
+    background: linear-gradient(90deg, #1a1a2e 0%, #16213e 100%);
+    color: var(--text-light);
+    height: var(--navbar-height);
+    padding: 0 20px;
+    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.2);
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    width: 100%;
+    justify-content: flex-start;
+    gap: 15px;
+}
+
+#navbar-title {
+    font-size: 1.8em;
+    font-weight: 800;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    letter-spacing: 2px;
+    margin: 0;
+    flex-shrink: 0;
+}
+
+#sidebar-toggle {
+    width: var(--toggle-size);
+    height: var(--toggle-size);
+    background: none;
+    border: none;
+    color: white;
+    font-size: 1.5em;
+    cursor: pointer;
+    outline: none;
+    transition: all 0.3s ease;
+    line-height: var(--toggle-size);
+    flex-shrink: 0;
+}
+
+#sidebar-toggle:hover {
+    color: #667eea;
+    transform: scale(1.2);
+}
+
+#nav-buttons {
+    display: flex;
+    gap: 10px;
+    margin-left: 20px;
+}
+
+.nav-button {
+    background: rgba(102, 126, 234, 0.2);
+    border: 1px solid rgba(102, 126, 234, 0.3);
+    color: var(--text-light);
+    padding: 8px 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 0.9em;
+    font-weight: 500;
+}
+
+.nav-button:hover {
+    background: rgba(102, 126, 234, 0.4);
+    border-color: #667eea;
+    transform: translateY(-2px);
+}
+
+.nav-button.active {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-color: #667eea;
+    box-shadow: 0 0 15px rgba(102, 126, 234, 0.5);
+}
+
+#profile-area {
+    margin-left: auto;
+    padding-left: 10px;
+}
+
+#profile-icon {
+    font-size: 1.2em;
+    cursor: pointer;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 36px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: var(--text-light);
+    transition: all 0.3s ease;
+    display: inline-block;
+}
+
+#profile-icon:hover {
+    transform: scale(1.15) rotate(10deg);
+    box-shadow: 0 0 15px rgba(102, 126, 234, 0.5);
+}
