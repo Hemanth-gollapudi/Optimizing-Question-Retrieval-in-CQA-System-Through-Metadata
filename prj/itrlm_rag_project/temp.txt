@@ -1,0 +1,65 @@
+li = [
+    "Where does the sun rise?",
+    "What is the capital of India?",
+    "Who is the President of the United States?",
+    "How many continents are there in the world?",
+    "What is the largest ocean on Earth?",
+    "Who invented the telephone?",
+    "What is the national animal of India?",
+"भारत की राजधानी क्या है?",
+
+"संयुक्त राज्य अमेरिका के राष्ट्रपति कौन हैं?",
+
+"दुनिया में कुल कितने महाद्वीप हैं?",
+
+"पृथ्वी का सबसे बड़ा महासागर कौन सा है?",
+
+"टेलीफोन का आविष्कार किसने किया?",
+
+"भारत का राष्ट्रीय पशु कौन सा है?",
+
+"किस ग्रह को लाल ग्रह कहा जाता है?",
+
+"मनुष्य कौन सी गैस बाहर निकालता है?",
+
+"भारत का राष्ट्रगान किसने लिखा?",
+
+"సూర్యుడు ఎక్కడ ఉదయిస్తాడు?",
+
+"భారతదేశ రాజధాని ఏది?",
+
+"అమెరికా అధ్యక్షుడు ఎవరు?",
+
+"ప్రపంచంలో మొత్తం ఎన్ని ఖండాలు ఉన్నాయి?",
+
+"భూమిపై అతిపెద్ద మహాసముద్రం ఏది?",
+
+"టెలిఫోన్ ఎవరు కనుగొన్నారు?",
+
+"భారతదేశ జాతీయ జంతువు ఏది?",
+
+"ఎర్ర గ్రహం అని పిలవబడే గ్రహం ఏది?",
+
+"మనుషులు ఏ వాయువును ఉద్గారిస్తారు?",
+
+"భారత జాతీయ గీతాన్ని ఎవరు రచించారు?",
+
+""¿Dónde sale el sol?",
+
+""¿Cuál es la capital de la India?",
+
+"¿Quién es el presidente de los Estados Unidos?",
+
+"¿Cuántos continentes hay en el mundo?",
+
+"¿Cuál es el océano más grande de la Tierra?",
+
+"¿Quién inventó el teléfono?",
+
+"¿Cuál es el animal nacional de la India?",
+
+"¿Qué planeta se conoce como el planeta rojo?",
+
+"¿Qué gas exhalan los humanos?",
+
+"¿Quién escribió el himno nacional de la India?",

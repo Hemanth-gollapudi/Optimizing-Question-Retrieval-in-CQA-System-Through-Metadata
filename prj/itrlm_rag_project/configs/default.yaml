@@ -1,0 +1,22 @@
+project_name: ITRLM-RAG
+random_seed: 42
+
+paths:
+  data_dir: data/
+  outputs_dir: outputs/
+  checkpoints: outputs/checkpoints/
+  logs: outputs/logs/
+  results: outputs/results/
+
+model:
+  alpha: 0.3
+  beta: 0.8
+  lambda_: 0.2
+  gamma: 0.8
+  top_n_translations: 100
+
+rag:
+  embed_model: sentence-transformers/all-mpnet-base-v2
+  gen_model: mistralai/Mistral-7B-Instruct-v0.2
+  top_k_ctx: 5
+  max_answer_tokens: 50

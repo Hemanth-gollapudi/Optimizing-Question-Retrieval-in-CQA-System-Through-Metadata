@@ -1,0 +1,30 @@
+# ITRLM Model Parameters
+model:
+  # Translation-based similarity weights
+  alpha: 0.3 # Weight for general PMI translations
+  beta: 0.8 # Weight for category-specific PMI translations
+  lambda_: 0.2 # Weight for semantic similarity
+  gamma: 0.8 # Weight for RAG-generated answers
+
+  # Translation parameters
+  top_n_translations: 100
+  min_pmi_threshold: 0.1
+  max_translation_length: 50
+
+  # Category prediction
+  num_categories: 10
+  category_threshold: 0.5
+
+  # RAG parameters
+  rag:
+    embed_model: sentence-transformers/all-mpnet-base-v2
+    gen_model: mistralai/Mistral-7B-Instruct-v0.2
+    top_k_ctx: 5
+    max_answer_tokens: 50
+    temperature: 0.7
+    do_sample: true
+
+  # Evaluation metrics
+  evaluation:
+    metrics: ["map", "mrr", "precision@1", "precision@5", "precision@10"]
+    k_values: [1, 5, 10, 20]
