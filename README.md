@@ -31,7 +31,7 @@ Step 3: Train category classifier + dictionaries (optional, for advanced feature
 python src/train.py --data_csv data/cqa.csv
 
 Step 4: Run retrieval demo (CLI version)
-python src/demo.py --data_csv data/cqa.csv --query_subject "Give subject" --query_body "Your Question"
+python src/demo.py --data_csv data/cqa.csv --query_body "Java code for addition of numbers"
 
 Step 5: Evaluate
 python src/evaluate.py --data_csv data/cqa.csv --k 10 --num_queries 200 --exclude_self --relevance answer

@@ -5,7 +5,9 @@
  * Can be overridden via environment variables (VITE_*)
  */
 
-// Backend API Configuration (can be overridden via VITE_BACKEND_HOST and VITE_BACKEND_PORT)
+// Backend API Configuration
+// VITE_BACKEND_PORT is linked to BACKEND_PORT in launch.sh for consistency
+// Defaults match config.py: BACKEND_PORT=5000, BACKEND_HOST=localhost
 const BACKEND_HOST = import.meta.env.VITE_BACKEND_HOST || 'localhost';
 const BACKEND_PORT = import.meta.env.VITE_BACKEND_PORT || '5000';
 const BACKEND_BASE_URL = `http://${BACKEND_HOST}:${BACKEND_PORT}`;

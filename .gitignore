@@ -2,8 +2,22 @@ artifacts/category_model/
 artifacts/translation_dict
 
 #Ignore compiled python files
-E:\IOMP\src\__pycache__
-E:\IOMP\src\__pycache__\demo.cpython-311.pyc
-
-venv
+__pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+venv/
+env/
+.env
+.venv
+*.egg-info/
+dist/
+build/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+*.log
+test_results.json

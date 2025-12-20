@@ -29,7 +29,7 @@ OLLAMA_GENERATE_ENDPOINT = f"{OLLAMA_BASE_URL}/api/generate"
 OLLAMA_TAGS_ENDPOINT = f"{OLLAMA_BASE_URL}/api/tags"
 
 # Models
-OLLAMA_CODE_MODEL = "deepseek-coder:6.7b"
+OLLAMA_CODE_MODEL = "llama3:8b"
 OLLAMA_GENERAL_MODEL = "llama3:8b"
 
 # =========================================================

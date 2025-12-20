@@ -7,7 +7,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.8139200210571289,
-      "response_time": 0.12185382843017578,
+      "response_time": 0.2767820358276367,
       "has_response": true,
       "response_length": 190,
       "error": null
@@ -19,7 +19,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.8388761878013611,
-      "response_time": 0.044296979904174805,
+      "response_time": 0.014877796173095703,
       "has_response": true,
       "response_length": 174,
       "error": null
@@ -31,7 +31,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.6589468717575073,
-      "response_time": 0.014358043670654297,
+      "response_time": 0.013309955596923828,
       "has_response": true,
       "response_length": 190,
       "error": null
@@ -43,7 +43,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.8328072428703308,
-      "response_time": 0.045233964920043945,
+      "response_time": 0.013948917388916016,
       "has_response": true,
       "response_length": 190,
       "error": null
@@ -55,7 +55,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.8890912532806396,
-      "response_time": 0.041319847106933594,
+      "response_time": 0.023462295532226562,
       "has_response": true,
       "response_length": 163,
       "error": null
@@ -67,7 +67,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.6663101315498352,
-      "response_time": 0.014482259750366211,
+      "response_time": 0.01422429084777832,
       "has_response": true,
       "response_length": 163,
       "error": null
@@ -79,7 +79,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.7641095519065857,
-      "response_time": 0.014066934585571289,
+      "response_time": 0.013944149017333984,
       "has_response": true,
       "response_length": 130,
       "error": null
@@ -91,7 +91,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.809902012348175,
-      "response_time": 0.041535139083862305,
+      "response_time": 0.01721501350402832,
       "has_response": true,
       "response_length": 141,
       "error": null
@@ -103,7 +103,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.7185473442077637,
-      "response_time": 0.013439178466796875,
+      "response_time": 0.01790904998779297,
       "has_response": true,
       "response_length": 129,
       "error": null
@@ -115,7 +115,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.7661579847335815,
-      "response_time": 0.0424959659576416,
+      "response_time": 0.01504206657409668,
       "has_response": true,
       "response_length": 220,
       "error": null
@@ -127,7 +127,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.8631354570388794,
-      "response_time": 0.013179302215576172,
+      "response_time": 0.016726970672607422,
       "has_response": true,
       "response_length": 155,
       "error": null
@@ -139,7 +139,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.8306421637535095,
-      "response_time": 0.013265132904052734,
+      "response_time": 0.012697219848632812,
       "has_response": true,
       "response_length": 199,
       "error": null
@@ -151,7 +151,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.6381508708000183,
-      "response_time": 0.017206907272338867,
+      "response_time": 0.014935016632080078,
       "has_response": true,
       "response_length": 141,
       "error": null
@@ -163,7 +163,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.8475475311279297,
-      "response_time": 0.01344919204711914,
+      "response_time": 0.014976024627685547,
       "has_response": true,
       "response_length": 150,
       "error": null
@@ -175,7 +175,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.770594596862793,
-      "response_time": 0.014076948165893555,
+      "response_time": 0.018574953079223633,
       "has_response": true,
       "response_length": 189,
       "error": null
@@ -187,7 +187,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.8594540357589722,
-      "response_time": 0.04421591758728027,
+      "response_time": 0.0170900821685791,
       "has_response": true,
       "response_length": 147,
       "error": null
@@ -199,7 +199,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.8381386399269104,
-      "response_time": 0.013221979141235352,
+      "response_time": 0.025607824325561523,
       "has_response": true,
       "response_length": 230,
       "error": null
@@ -211,7 +211,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.8493313193321228,
-      "response_time": 0.01403188705444336,
+      "response_time": 0.013500213623046875,
       "has_response": true,
       "response_length": 152,
       "error": null
@@ -223,7 +223,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.7953250408172607,
-      "response_time": 0.014019012451171875,
+      "response_time": 0.015916109085083008,
       "has_response": true,
       "response_length": 169,
       "error": null
@@ -235,7 +235,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.8253501057624817,
-      "response_time": 0.017333984375,
+      "response_time": 0.02158808708190918,
       "has_response": true,
       "response_length": 125,
       "error": null
@@ -247,7 +247,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.5902060270309448,
-      "response_time": 0.016932010650634766,
+      "response_time": 0.015349626541137695,
       "has_response": true,
       "response_length": 130,
       "error": null
@@ -259,7 +259,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.8021656274795532,
-      "response_time": 0.01607489585876465,
+      "response_time": 0.01893138885498047,
       "has_response": true,
       "response_length": 142,
       "error": null
@@ -271,7 +271,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.7265463471412659,
-      "response_time": 0.015117883682250977,
+      "response_time": 0.018371105194091797,
       "has_response": true,
       "response_length": 213,
       "error": null
@@ -283,7 +283,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.7692195177078247,
-      "response_time": 0.015626907348632812,
+      "response_time": 0.013724803924560547,
       "has_response": true,
       "response_length": 131,
       "error": null
@@ -295,7 +295,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.7040765285491943,
-      "response_time": 0.013313055038452148,
+      "response_time": 0.01669597625732422,
       "has_response": true,
       "response_length": 170,
       "error": null
@@ -307,7 +307,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.7469016313552856,
-      "response_time": 0.013783693313598633,
+      "response_time": 0.016083955764770508,
       "has_response": true,
       "response_length": 180,
       "error": null
@@ -319,7 +319,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.7977393865585327,
-      "response_time": 0.013546943664550781,
+      "response_time": 0.016263961791992188,
       "has_response": true,
       "response_length": 137,
       "error": null
@@ -331,7 +331,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.8392887115478516,
-      "response_time": 0.016451120376586914,
+      "response_time": 0.019315004348754883,
       "has_response": true,
       "response_length": 122,
       "error": null
@@ -343,7 +343,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.648386538028717,
-      "response_time": 0.015320062637329102,
+      "response_time": 0.01928997039794922,
       "has_response": true,
       "response_length": 122,
       "error": null
@@ -355,7 +355,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.7850881814956665,
-      "response_time": 0.01744365692138672,
+      "response_time": 0.020227909088134766,
       "has_response": true,
       "response_length": 136,
       "error": null
@@ -367,7 +367,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.6454571485519409,
-      "response_time": 0.04474282264709473,
+      "response_time": 0.013062238693237305,
       "has_response": true,
       "response_length": 187,
       "error": null
@@ -379,7 +379,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.826411247253418,
-      "response_time": 0.013258934020996094,
+      "response_time": 0.01940608024597168,
       "has_response": true,
       "response_length": 129,
       "error": null
@@ -391,7 +391,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.8209241032600403,
-      "response_time": 0.014328718185424805,
+      "response_time": 0.014544963836669922,
       "has_response": true,
       "response_length": 173,
       "error": null
@@ -403,7 +403,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.749028205871582,
-      "response_time": 0.0159761905670166,
+      "response_time": 0.015398025512695312,
       "has_response": true,
       "response_length": 129,
       "error": null
@@ -415,7 +415,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.7940999269485474,
-      "response_time": 0.015501022338867188,
+      "response_time": 0.016637086868286133,
       "has_response": true,
       "response_length": 158,
       "error": null
@@ -427,7 +427,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.7767557501792908,
-      "response_time": 0.020038127899169922,
+      "response_time": 0.01645803451538086,
       "has_response": true,
       "response_length": 125,
       "error": null
@@ -439,7 +439,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.7193517088890076,
-      "response_time": 0.016041994094848633,
+      "response_time": 0.02399301528930664,
       "has_response": true,
       "response_length": 171,
       "error": null
@@ -451,7 +451,7 @@
       "success": true,
       "source": "dataset",
       "similarity_score": 0.7810772657394409,
-      "response_time": 0.016882896423339844,
+      "response_time": 0.012946128845214844,
       "has_response": true,
       "response_length": 179,
       "error": null
@@ -463,9 +463,9 @@
       "success": true,
       "source": "llm",
       "similarity_score": 0.22378629446029663,
-      "response_time": 20.758035898208618,
+      "response_time": 1.8797569274902344,
       "has_response": true,
-      "response_length": 132,
+      "response_length": 141,
       "error": null
     },
     {
@@ -475,9 +475,9 @@
       "success": true,
       "source": "llm",
       "similarity_score": 0.3488229513168335,
-      "response_time": 1.3300950527191162,
+      "response_time": 1.3985369205474854,
       "has_response": true,
-      "response_length": 156,
+      "response_length": 182,
       "error": null
     },
     {
@@ -487,7 +487,7 @@
       "success": true,
       "source": "llm",
       "similarity_score": 0.08611925691366196,
-      "response_time": 0.33080101013183594,
+      "response_time": 0.39611005783081055,
       "has_response": true,
       "response_length": 10,
       "error": null
@@ -499,7 +499,7 @@
       "success": true,
       "source": "llm",
       "similarity_score": 0.11349593847990036,
-      "response_time": 0.5773289203643799,
+      "response_time": 0.5087437629699707,
       "has_response": true,
       "response_length": 28,
       "error": null
@@ -519,9 +519,9 @@
       "count": 42
     },
     "response_time_stats": {
-      "mean": 0.5684220052900768,
-      "min": 0.013179302215576172,
-      "max": 20.758035898208618,
+      "mean": 0.121004167057219,
+      "min": 0.012697219848632812,
+      "max": 1.8797569274902344,
       "count": 42
     },
     "by_category": {

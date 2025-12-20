@@ -22,6 +22,12 @@
     letter-spacing: 2px;
     margin: 0;
     flex-shrink: 0;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#navbar-title:hover {
+    opacity: 0.9;
 }
 
 #sidebar-toggle {
@@ -59,6 +65,8 @@
     transition: all 0.3s ease;
     font-size: 0.9em;
     font-weight: 500;
+    text-decoration: none;
+    display: inline-block;
 }
 
 .nav-button:hover {
@@ -76,6 +84,7 @@
 #profile-area {
     margin-left: auto;
     padding-left: 10px;
+    position: relative;
 }
 
 #profile-icon {
@@ -90,9 +99,52 @@
     color: var(--text-light);
     transition: all 0.3s ease;
     display: inline-block;
+    user-select: none;
 }
 
 #profile-icon:hover {
     transform: scale(1.15) rotate(10deg);
     box-shadow: 0 0 15px rgba(102, 126, 234, 0.5);
+}
+
+.profile-dropdown {
+    position: absolute;
+    top: calc(100% + 10px);
+    right: 0;
+    background: linear-gradient(180deg, #1a1a2e 0%, #16213e 100%);
+    border: 1px solid rgba(102, 126, 234, 0.3);
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    min-width: 200px;
+    z-index: 1000;
+    overflow: hidden;
+    animation: slideDown 0.3s ease-out;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.dropdown-item {
+    padding: 12px 16px;
+    color: var(--text-light);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 0.95em;
+}
+
+.dropdown-item:hover {
+    background: rgba(102, 126, 234, 0.2);
+    color: #667eea;
 }

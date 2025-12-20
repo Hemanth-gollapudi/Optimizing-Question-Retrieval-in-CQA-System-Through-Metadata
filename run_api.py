@@ -6,6 +6,9 @@ import uvicorn
 import sys
 import os
 
+# Set environment variable to suppress tokenizers warnings
+os.environ['TOKENIZERS_PARALLELISM'] = 'false'
+
 # Import project configuration
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import config

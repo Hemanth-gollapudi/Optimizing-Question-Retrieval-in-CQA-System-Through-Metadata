@@ -111,6 +111,11 @@ else
         npm install
     fi
     
+    # Link VITE_BACKEND_PORT to BACKEND_PORT for consistency
+    export VITE_BACKEND_PORT=${BACKEND_PORT}
+    export VITE_BACKEND_HOST=${BACKEND_HOST}
+    export VITE_FRONTEND_PORT=${FRONTEND_PORT}
+    
     npm run dev 2>&1 | while IFS= read -r line; do
         echo -e "${GREEN}[FRONTEND]${NC} $line" | tee -a "$FRONTEND_LOG"
     done &
