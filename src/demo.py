@@ -154,7 +154,8 @@ def main():
             "Stop after code ends.\n\n"
             f"{query}\n"
         )
-        out = ollama_generate("deepseek-coder:6.7b", prompt, max_tokens=700)
+        print("Entered here")
+        out = ollama_generate("llama3:8b", prompt, max_tokens=700)
         print("Answer:\n" + strip_code_fences(out))
         return
 

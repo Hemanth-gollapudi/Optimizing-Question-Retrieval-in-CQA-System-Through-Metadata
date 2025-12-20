@@ -1,0 +1,869 @@
+{
+  "results": [
+    {
+      "question": "How to fix WiFi disconnecting?",
+      "category": "Technology",
+      "topic": "WiFi",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.8139200210571289,
+      "response_time": 0.2767820358276367,
+      "has_response": true,
+      "response_length": 190,
+      "error": null
+    },
+    {
+      "question": "My internet keeps dropping",
+      "category": "Technology",
+      "topic": "WiFi",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.8388761878013611,
+      "response_time": 0.014877796173095703,
+      "has_response": true,
+      "response_length": 174,
+      "error": null
+    },
+    {
+      "question": "WiFi connection problems",
+      "category": "Technology",
+      "topic": "WiFi",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.6589468717575073,
+      "response_time": 0.013309955596923828,
+      "has_response": true,
+      "response_length": 190,
+      "error": null
+    },
+    {
+      "question": "Laptop WiFi keeps disconnecting",
+      "category": "Technology",
+      "topic": "WiFi",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.8328072428703308,
+      "response_time": 0.013948917388916016,
+      "has_response": true,
+      "response_length": 190,
+      "error": null
+    },
+    {
+      "question": "Bluetooth not detecting devices",
+      "category": "Technology",
+      "topic": "Bluetooth",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.8890912532806396,
+      "response_time": 0.023462295532226562,
+      "has_response": true,
+      "response_length": 163,
+      "error": null
+    },
+    {
+      "question": "Bluetooth pairing issues",
+      "category": "Technology",
+      "topic": "Bluetooth",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.6663101315498352,
+      "response_time": 0.01422429084777832,
+      "has_response": true,
+      "response_length": 163,
+      "error": null
+    },
+    {
+      "question": "Can't find Bluetooth devices",
+      "category": "Technology",
+      "topic": "Bluetooth",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.7641095519065857,
+      "response_time": 0.013944149017333984,
+      "has_response": true,
+      "response_length": 130,
+      "error": null
+    },
+    {
+      "question": "Storage is full",
+      "category": "Technology",
+      "topic": "Storage",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.809902012348175,
+      "response_time": 0.01721501350402832,
+      "has_response": true,
+      "response_length": 141,
+      "error": null
+    },
+    {
+      "question": "Phone storage full",
+      "category": "Technology",
+      "topic": "Storage",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.7185473442077637,
+      "response_time": 0.01790904998779297,
+      "has_response": true,
+      "response_length": 129,
+      "error": null
+    },
+    {
+      "question": "How to free up storage?",
+      "category": "Technology",
+      "topic": "Storage",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.7661579847335815,
+      "response_time": 0.01504206657409668,
+      "has_response": true,
+      "response_length": 220,
+      "error": null
+    },
+    {
+      "question": "App keeps crashing",
+      "category": "Technology",
+      "topic": "App",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.8631354570388794,
+      "response_time": 0.016726970672607422,
+      "has_response": true,
+      "response_length": 155,
+      "error": null
+    },
+    {
+      "question": "Application closes suddenly",
+      "category": "Technology",
+      "topic": "App",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.8306421637535095,
+      "response_time": 0.012697219848632812,
+      "has_response": true,
+      "response_length": 199,
+      "error": null
+    },
+    {
+      "question": "App not working",
+      "category": "Technology",
+      "topic": "App",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.6381508708000183,
+      "response_time": 0.014935016632080078,
+      "has_response": true,
+      "response_length": 141,
+      "error": null
+    },
+    {
+      "question": "Phone gets hot while charging",
+      "category": "Technology",
+      "topic": "Phone",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.8475475311279297,
+      "response_time": 0.014976024627685547,
+      "has_response": true,
+      "response_length": 150,
+      "error": null
+    },
+    {
+      "question": "Device overheating",
+      "category": "Technology",
+      "topic": "Phone",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.770594596862793,
+      "response_time": 0.018574953079223633,
+      "has_response": true,
+      "response_length": 189,
+      "error": null
+    },
+    {
+      "question": "UPI transaction failed but money deducted",
+      "category": "Finance",
+      "topic": "UPI",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.8594540357589722,
+      "response_time": 0.0170900821685791,
+      "has_response": true,
+      "response_length": 147,
+      "error": null
+    },
+    {
+      "question": "UPI payment failed",
+      "category": "Finance",
+      "topic": "UPI",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.8381386399269104,
+      "response_time": 0.025607824325561523,
+      "has_response": true,
+      "response_length": 230,
+      "error": null
+    },
+    {
+      "question": "Money debited but UPI failed",
+      "category": "Finance",
+      "topic": "UPI",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.8493313193321228,
+      "response_time": 0.013500213623046875,
+      "has_response": true,
+      "response_length": 152,
+      "error": null
+    },
+    {
+      "question": "How to track spending?",
+      "category": "Finance",
+      "topic": "Budget",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.7953250408172607,
+      "response_time": 0.015916109085083008,
+      "has_response": true,
+      "response_length": 169,
+      "error": null
+    },
+    {
+      "question": "Budget planning tips",
+      "category": "Finance",
+      "topic": "Budget",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.8253501057624817,
+      "response_time": 0.02158808708190918,
+      "has_response": true,
+      "response_length": 125,
+      "error": null
+    },
+    {
+      "question": "Want to save more money",
+      "category": "Finance",
+      "topic": "Budget",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.5902060270309448,
+      "response_time": 0.015349626541137695,
+      "has_response": true,
+      "response_length": 130,
+      "error": null
+    },
+    {
+      "question": "Credit score dropped",
+      "category": "Finance",
+      "topic": "Credit",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.8021656274795532,
+      "response_time": 0.01893138885498047,
+      "has_response": true,
+      "response_length": 142,
+      "error": null
+    },
+    {
+      "question": "How to improve credit score?",
+      "category": "Finance",
+      "topic": "Credit",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.7265463471412659,
+      "response_time": 0.018371105194091797,
+      "has_response": true,
+      "response_length": 213,
+      "error": null
+    },
+    {
+      "question": "How to start investing?",
+      "category": "Finance",
+      "topic": "Investing",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.7692195177078247,
+      "response_time": 0.013724803924560547,
+      "has_response": true,
+      "response_length": 131,
+      "error": null
+    },
+    {
+      "question": "Beginner investment advice",
+      "category": "Finance",
+      "topic": "Investing",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.7040765285491943,
+      "response_time": 0.01669597625732422,
+      "has_response": true,
+      "response_length": 170,
+      "error": null
+    },
+    {
+      "question": "Wake up with headache",
+      "category": "Health",
+      "topic": "Headache",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.7469016313552856,
+      "response_time": 0.016083955764770508,
+      "has_response": true,
+      "response_length": 180,
+      "error": null
+    },
+    {
+      "question": "Morning headaches",
+      "category": "Health",
+      "topic": "Headache",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.7977393865585327,
+      "response_time": 0.016263961791992188,
+      "has_response": true,
+      "response_length": 137,
+      "error": null
+    },
+    {
+      "question": "Stomach pain after meals",
+      "category": "Health",
+      "topic": "Stomach",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.8392887115478516,
+      "response_time": 0.019315004348754883,
+      "has_response": true,
+      "response_length": 122,
+      "error": null
+    },
+    {
+      "question": "Bloating and pain",
+      "category": "Health",
+      "topic": "Stomach",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.648386538028717,
+      "response_time": 0.01928997039794922,
+      "has_response": true,
+      "response_length": 122,
+      "error": null
+    },
+    {
+      "question": "Sore throat and cough",
+      "category": "Health",
+      "topic": "Cold",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.7850881814956665,
+      "response_time": 0.020227909088134766,
+      "has_response": true,
+      "response_length": 136,
+      "error": null
+    },
+    {
+      "question": "Cold symptoms",
+      "category": "Health",
+      "topic": "Cold",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.6454571485519409,
+      "response_time": 0.013062238693237305,
+      "has_response": true,
+      "response_length": 187,
+      "error": null
+    },
+    {
+      "question": "Nervous during exams",
+      "category": "Education",
+      "topic": "Exam",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.826411247253418,
+      "response_time": 0.01940608024597168,
+      "has_response": true,
+      "response_length": 129,
+      "error": null
+    },
+    {
+      "question": "Exam anxiety",
+      "category": "Education",
+      "topic": "Exam",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.8209241032600403,
+      "response_time": 0.014544963836669922,
+      "has_response": true,
+      "response_length": 173,
+      "error": null
+    },
+    {
+      "question": "Forget answers in exam",
+      "category": "Education",
+      "topic": "Exam",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.749028205871582,
+      "response_time": 0.015398025512695312,
+      "has_response": true,
+      "response_length": 129,
+      "error": null
+    },
+    {
+      "question": "Can't concentrate while studying",
+      "category": "Education",
+      "topic": "Concentration",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.7940999269485474,
+      "response_time": 0.016637086868286133,
+      "has_response": true,
+      "response_length": 158,
+      "error": null
+    },
+    {
+      "question": "Get distracted easily",
+      "category": "Education",
+      "topic": "Concentration",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.7767557501792908,
+      "response_time": 0.01645803451538086,
+      "has_response": true,
+      "response_length": 125,
+      "error": null
+    },
+    {
+      "question": "Confused about loops and functions",
+      "category": "Education",
+      "topic": "Programming",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.7193517088890076,
+      "response_time": 0.02399301528930664,
+      "has_response": true,
+      "response_length": 171,
+      "error": null
+    },
+    {
+      "question": "Programming basics help",
+      "category": "Education",
+      "topic": "Programming",
+      "success": true,
+      "source": "dataset",
+      "similarity_score": 0.7810772657394409,
+      "response_time": 0.012946128845214844,
+      "has_response": true,
+      "response_length": 179,
+      "error": null
+    },
+    {
+      "question": "What is quantum computing?",
+      "category": "General",
+      "topic": "Science",
+      "success": true,
+      "source": "llm",
+      "similarity_score": 0.22378629446029663,
+      "response_time": 1.8797569274902344,
+      "has_response": true,
+      "response_length": 141,
+      "error": null
+    },
+    {
+      "question": "Explain machine learning",
+      "category": "General",
+      "topic": "Science",
+      "success": true,
+      "source": "llm",
+      "similarity_score": 0.3488229513168335,
+      "response_time": 1.3985369205474854,
+      "has_response": true,
+      "response_length": 182,
+      "error": null
+    },
+    {
+      "question": "Who won the World Cup 2022?",
+      "category": "General",
+      "topic": "Sports",
+      "success": true,
+      "source": "llm",
+      "similarity_score": 0.08611925691366196,
+      "response_time": 0.39611005783081055,
+      "has_response": true,
+      "response_length": 10,
+      "error": null
+    },
+    {
+      "question": "What is the capital of Mars?",
+      "category": "General",
+      "topic": "Geography",
+      "success": true,
+      "source": "llm",
+      "similarity_score": 0.11349593847990036,
+      "response_time": 0.5087437629699707,
+      "has_response": true,
+      "response_length": 28,
+      "error": null
+    }
+  ],
+  "metrics": {
+    "total_questions": 42,
+    "success_rate": 1.0,
+    "dataset_hit_rate": 0.9047619047619048,
+    "llm_fallback_rate": 0.09523809523809523,
+    "error_rate": 0.0,
+    "similarity_stats": {
+      "mean": 0.7183639680345854,
+      "min": 0.08611925691366196,
+      "max": 0.8890912532806396,
+      "above_threshold": 38,
+      "count": 42
+    },
+    "response_time_stats": {
+      "mean": 0.121004167057219,
+      "min": 0.012697219848632812,
+      "max": 1.8797569274902344,
+      "count": 42
+    },
+    "by_category": {
+      "Technology": {
+        "total": 15,
+        "success": 15,
+        "dataset": 15,
+        "llm": 0,
+        "errors": 0
+      },
+      "Finance": {
+        "total": 10,
+        "success": 10,
+        "dataset": 10,
+        "llm": 0,
+        "errors": 0
+      },
+      "Health": {
+        "total": 6,
+        "success": 6,
+        "dataset": 6,
+        "llm": 0,
+        "errors": 0
+      },
+      "Education": {
+        "total": 7,
+        "success": 7,
+        "dataset": 7,
+        "llm": 0,
+        "errors": 0
+      },
+      "General": {
+        "total": 4,
+        "success": 4,
+        "dataset": 0,
+        "llm": 4,
+        "errors": 0
+      }
+    },
+    "by_topic": {
+      "WiFi": {
+        "total": 4,
+        "success": 4,
+        "avg_similarity": 0.786137580871582
+      },
+      "Bluetooth": {
+        "total": 3,
+        "success": 3,
+        "avg_similarity": 0.7731703122456869
+      },
+      "Storage": {
+        "total": 3,
+        "success": 3,
+        "avg_similarity": 0.7648691137631735
+      },
+      "App": {
+        "total": 3,
+        "success": 3,
+        "avg_similarity": 0.7773094971974691
+      },
+      "Phone": {
+        "total": 2,
+        "success": 2,
+        "avg_similarity": 0.8090710639953613
+      },
+      "UPI": {
+        "total": 3,
+        "success": 3,
+        "avg_similarity": 0.8489746650060018
+      },
+      "Budget": {
+        "total": 3,
+        "success": 3,
+        "avg_similarity": 0.7369603912035624
+      },
+      "Credit": {
+        "total": 2,
+        "success": 2,
+        "avg_similarity": 0.7643559873104095
+      },
+      "Investing": {
+        "total": 2,
+        "success": 2,
+        "avg_similarity": 0.7366480231285095
+      },
+      "Headache": {
+        "total": 2,
+        "success": 2,
+        "avg_similarity": 0.7723205089569092
+      },
+      "Stomach": {
+        "total": 2,
+        "success": 2,
+        "avg_similarity": 0.7438376247882843
+      },
+      "Cold": {
+        "total": 2,
+        "success": 2,
+        "avg_similarity": 0.7152726650238037
+      },
+      "Exam": {
+        "total": 3,
+        "success": 3,
+        "avg_similarity": 0.7987878521283468
+      },
+      "Concentration": {
+        "total": 2,
+        "success": 2,
+        "avg_similarity": 0.7854278385639191
+      },
+      "Programming": {
+        "total": 2,
+        "success": 2,
+        "avg_similarity": 0.7502144873142242
+      },
+      "Science": {
+        "total": 2,
+        "success": 2,
+        "avg_similarity": 0.28630462288856506
+      },
+      "Sports": {
+        "total": 1,
+        "success": 1,
+        "avg_similarity": 0.08611925691366196
+      },
+      "Geography": {
+        "total": 1,
+        "success": 1,
+        "avg_similarity": 0.11349593847990036
+      }
+    }
+  },
+  "test_questions": [
+    [
+      "How to fix WiFi disconnecting?",
+      "Technology",
+      "WiFi"
+    ],
+    [
+      "My internet keeps dropping",
+      "Technology",
+      "WiFi"
+    ],
+    [
+      "WiFi connection problems",
+      "Technology",
+      "WiFi"
+    ],
+    [
+      "Laptop WiFi keeps disconnecting",
+      "Technology",
+      "WiFi"
+    ],
+    [
+      "Bluetooth not detecting devices",
+      "Technology",
+      "Bluetooth"
+    ],
+    [
+      "Bluetooth pairing issues",
+      "Technology",
+      "Bluetooth"
+    ],
+    [
+      "Can't find Bluetooth devices",
+      "Technology",
+      "Bluetooth"
+    ],
+    [
+      "Storage is full",
+      "Technology",
+      "Storage"
+    ],
+    [
+      "Phone storage full",
+      "Technology",
+      "Storage"
+    ],
+    [
+      "How to free up storage?",
+      "Technology",
+      "Storage"
+    ],
+    [
+      "App keeps crashing",
+      "Technology",
+      "App"
+    ],
+    [
+      "Application closes suddenly",
+      "Technology",
+      "App"
+    ],
+    [
+      "App not working",
+      "Technology",
+      "App"
+    ],
+    [
+      "Phone gets hot while charging",
+      "Technology",
+      "Phone"
+    ],
+    [
+      "Device overheating",
+      "Technology",
+      "Phone"
+    ],
+    [
+      "UPI transaction failed but money deducted",
+      "Finance",
+      "UPI"
+    ],
+    [
+      "UPI payment failed",
+      "Finance",
+      "UPI"
+    ],
+    [
+      "Money debited but UPI failed",
+      "Finance",
+      "UPI"
+    ],
+    [
+      "How to track spending?",
+      "Finance",
+      "Budget"
+    ],
+    [
+      "Budget planning tips",
+      "Finance",
+      "Budget"
+    ],
+    [
+      "Want to save more money",
+      "Finance",
+      "Budget"
+    ],
+    [
+      "Credit score dropped",
+      "Finance",
+      "Credit"
+    ],
+    [
+      "How to improve credit score?",
+      "Finance",
+      "Credit"
+    ],
+    [
+      "How to start investing?",
+      "Finance",
+      "Investing"
+    ],
+    [
+      "Beginner investment advice",
+      "Finance",
+      "Investing"
+    ],
+    [
+      "Wake up with headache",
+      "Health",
+      "Headache"
+    ],
+    [
+      "Morning headaches",
+      "Health",
+      "Headache"
+    ],
+    [
+      "Stomach pain after meals",
+      "Health",
+      "Stomach"
+    ],
+    [
+      "Bloating and pain",
+      "Health",
+      "Stomach"
+    ],
+    [
+      "Sore throat and cough",
+      "Health",
+      "Cold"
+    ],
+    [
+      "Cold symptoms",
+      "Health",
+      "Cold"
+    ],
+    [
+      "Nervous during exams",
+      "Education",
+      "Exam"
+    ],
+    [
+      "Exam anxiety",
+      "Education",
+      "Exam"
+    ],
+    [
+      "Forget answers in exam",
+      "Education",
+      "Exam"
+    ],
+    [
+      "Can't concentrate while studying",
+      "Education",
+      "Concentration"
+    ],
+    [
+      "Get distracted easily",
+      "Education",
+      "Concentration"
+    ],
+    [
+      "Confused about loops and functions",
+      "Education",
+      "Programming"
+    ],
+    [
+      "Programming basics help",
+      "Education",
+      "Programming"
+    ],
+    [
+      "What is quantum computing?",
+      "General",
+      "Science"
+    ],
+    [
+      "Explain machine learning",
+      "General",
+      "Science"
+    ],
+    [
+      "Who won the World Cup 2022?",
+      "General",
+      "Sports"
+    ],
+    [
+      "What is the capital of Mars?",
+      "General",
+      "Geography"
+    ]
+  ]
+}
